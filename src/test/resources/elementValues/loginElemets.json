@@ -1,0 +1,38 @@
+[
+  {
+    "key": "loginPageHeader",
+    "value": "//*[contains(text(), 'Login to your account')]",
+    "type": "xpath"
+  },
+  {
+    "key": "loggedInAsLabel",
+    "value": "//*[contains(text(), 'Logged in as')]",
+    "type": "xpath"
+  },
+  {
+    "key": "loginPageEmailInput",
+    "value": "//input[@data-qa='login-email']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginPagePasswordInput",
+    "value": "//input[@data-qa='login-password']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginPageLoginButton",
+    "value": "//button[text()='Login']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginPageDeleteSuccess",
+    "value": "//*[contains(text(),'ACCOUNT DELETED!')]",
+    "type": "xpath"
+  },
+  {
+    "key": "loginErrorMessageLabel",
+    "value": "//*[contains(text(),'Your email or password is incorrect!')]",
+    "type": "xpath"
+  }
+
+]

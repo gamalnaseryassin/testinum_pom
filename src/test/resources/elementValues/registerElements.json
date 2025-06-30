@@ -1,0 +1,127 @@
+[
+  {
+    "key": "homeHtml",
+    "value": "html",
+    "type": "css"
+  },
+  {
+    "key": "signupLoginBtn",
+    "value": "Signup / Login",
+    "type": "linkText"
+  },
+  {
+    "key": "nameField",
+    "value": "name",
+    "type": "name"
+  },
+  {
+    "key": "emailField",
+    "value": "//input[@data-qa='signup-email']",
+    "type": "xpath"
+  },
+  {
+    "key": "signupBtn",
+    "value": "//button[text()='Signup']",
+    "type": "xpath"
+  },
+  {
+    "key": "titleMr",
+    "value": "id_gender1",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value": "password",
+    "type": "id"
+  },
+  {
+    "key": "days",
+    "value": "days",
+    "type": "id"
+  },
+  {
+    "key": "months",
+    "value": "months",
+    "type": "id"
+  },
+  {
+    "key": "years",
+    "value": "years",
+    "type": "id"
+  },
+  {
+    "key": "newsletterCheckbox",
+    "value": "newsletter",
+    "type": "id"
+  },
+  {
+    "key": "offersCheckbox",
+    "value": "optin",
+    "type": "id"
+  },
+  {
+    "key": "firstName",
+    "value": "first_name",
+    "type": "id"
+  },
+  {
+    "key": "lastName",
+    "value": "last_name",
+    "type": "id"
+  },
+  {
+    "key": "company",
+    "value": "company",
+    "type": "id"
+  },
+  {
+    "key": "address1",
+    "value": "address1",
+    "type": "id"
+  },
+  {
+    "key": "address2",
+    "value": "address2",
+    "type": "id"
+  },
+  {
+    "key": "country",
+    "value": "country",
+    "type": "id"
+  },
+  {
+    "key": "state",
+    "value": "state",
+    "type": "id"
+  },
+  {
+    "key": "city",
+    "value": "city",
+    "type": "id"
+  },
+  {
+    "key": "zipcode",
+    "value": "zipcode",
+    "type": "id"
+  },
+  {
+    "key": "mobileNumber",
+    "value": "mobile_number",
+    "type": "id"
+  },
+  {
+    "key": "createAccountBtn",
+    "value": "//button[text()='Create Account']",
+    "type": "xpath"
+  },
+  {
+    "key": "continueBtn",
+    "value": "//a[text()='Continue']",
+    "type": "xpath"
+  },
+  {
+    "key": "deleteAccountBtn",
+    "value": "Delete Account",
+    "type": "linkText"
+  }
+]

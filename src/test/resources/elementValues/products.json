@@ -1,0 +1,62 @@
+[
+  {
+    "key": "homePageTitle",
+    "value": ".home",
+    "type": "css"
+  },
+  {
+    "key": "productsBtn",
+    "value": "//a[@href='/products']",
+    "type": "xpath"
+  },
+  {
+    "key": "allProductsHeader",
+    "value": ".title.text-center",
+    "type": "css"
+  },
+  {
+    "key": "productsList",
+    "value": ".features_items",
+    "type": "css"
+  },
+  {
+    "key": "viewFirstProductBtn",
+    "value": ".product-image-wrapper:first-child .choose a[href*='product_details']",
+    "type": "css"
+  },
+  {
+    "key": "productDetailSection",
+    "value": ".product-details",
+    "type": "css"
+  },
+  {
+    "key": "productName",
+    "value": ".product-information h2",
+    "type": "css"
+  },
+  {
+    "key": "productCategory",
+    "value": "//div[@class='product-information']//p[contains(text(), 'Category')]",
+    "type": "xpath"
+  },
+  {
+    "key": "productPrice",
+    "value": ".product-information span span",
+    "type": "css"
+  },
+  {
+    "key": "productAvailability",
+    "value": "//div[@class='product-information']//b[contains(text(), 'Availability')]",
+    "type": "xpath"
+  },
+  {
+    "key": "productCondition",
+    "value": "//div[@class='product-information']//b[contains(text(), 'Condition')]",
+    "type": "xpath"
+  },
+  {
+    "key": "productBrand",
+    "value": "//div[@class='product-information']//b[contains(text(), 'Brand')]",
+    "type": "xpath"
+  }
+]

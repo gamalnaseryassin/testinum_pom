@@ -1,0 +1,113 @@
+[
+  {
+    "key": "gftLogo",
+    "value": "//a[@title='GFT Home']",
+    "type": "xpath"
+  },
+  {
+    "key": "contactUsButton",
+    "value": "a[aria-label='Click here to contact us']",
+    "type": "css"
+  },
+  {
+    "key": "allowCookiesButton",
+    "value": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "type": "id"
+  },
+  {
+    "key": "searchButton",
+    "value": "(//a[@aria-label='Click here to contact us']/following-sibling::div)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuButton",
+    "value": "(//a[@aria-label='Click here to contact us']/following-sibling::div)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "servicesButton",
+    "value": "(//span[contains(text(),' Services')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "industriesButton",
+    "value": "(//span[contains(text(),' Industries')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "insightsButton",
+    "value": "(//span[contains(text(),'Insights')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "aboutUsButton",
+    "value": "(//span[contains(text(),'About Us')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "careersButton",
+    "value": "(//span[contains(text(),' Careers')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "investorRelationsButton",
+    "value": "(//span[contains(text(), 'Investor Relations')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "aboutGFTButton",
+    "value": "a[aria-label='This teaser links to About GFT']",
+    "type": "css"
+  },
+  {
+    "key": "administrativeBoardButton",
+    "value": "a[aria-label='This teaser links to Administrative Board']",
+    "type": "css"
+  },
+  {
+    "key": "groupExecutiveBoardButton",
+    "value": "a[aria-label='This teaser links to Group Executive Board']",
+    "type": "css"
+  },
+  {
+    "key": "sustainabilityButton",
+    "value": "a[aria-label='This teaser links to Sustainability']",
+    "type": "css"
+  },
+  {
+    "key": "awardsButton",
+    "value": "a[aria-label='This teaser links to Awards']",
+    "type": "css"
+  },
+  {
+    "key": "aboutGftHeaderText",
+    "value": "(//div[contains(@class,'text-xl')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "searchBarInput",
+    "value": "input[placeholder='I am looking for...']",
+    "type": "css"
+  },
+  {
+    "key": "loginHeader",
+    "value": "//*[contains(text(), 'Login to your account')]",
+    "type": "xpath"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
